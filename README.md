@@ -1,0 +1,1 @@
+# GPT_vocabulary_builder_for_Anki
